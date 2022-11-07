@@ -1,0 +1,14 @@
+h1{
+    color:red;
+    font-size: 40px;
+}
+.body_background {
+    background-image: URL(https://i.pinimg.com/originals/bf/5f/a2/bf5fa20a0d715346b647572055e00ee7.jpg);
+    background-position: center;
+    background-size: color;
+}
+#myCanvas {
+    border-width:20px;
+    background-color: #ffffff;
+    border-style: ridge;
+}
